@@ -16,4 +16,6 @@
 }
 #maincontent img {
     text-shadow: 15px 15px 5px #CF8C46;
+    -webkit-box-shadow: 15px 15px 5px 0px #BB9268;
+    box-shadow: 15px 15px 5px 0px #BB9268;
 }
